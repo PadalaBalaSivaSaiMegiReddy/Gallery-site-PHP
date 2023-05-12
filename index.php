@@ -57,22 +57,22 @@
     </ol>
     <div class="carousel-inner" role="listbox">
       <div class="carousel-item active">
-        <img class="d-block w-100" src="Images\dino-reichmuth-A5rCN8626Ck-unsplash.jpg" alt="First slide">
+        <img class="d-block w-100" src="Images\nature_4.jpg" alt="First slide">
         <div class="carousel-caption d-none d-md-block">
-          <h3>First slide label</h3>
+          <h3>Nature</h3>
 
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="Images\v2osk-1Z2niiBPg5A-unsplash.jpg" alt="Second slide">
+        <img class="d-block w-100" src="Images\architecture_4.jpg" alt="Second slide">
         <div class="carousel-caption d-none d-md-block">
-          <h3>Second slide label</h3>
+          <h3>Architecture</h3>
         </div>
       </div>
       <div class="carousel-item"> <!-- added third slide -->
-        <img class="d-block w-100" src="Images\annie-spratt-qyAka7W5uMY-unsplash.jpg" alt="Third slide">
+        <img class="d-block w-100" src="Images\travel_4.jpg" alt="Third slide">
         <div class="carousel-caption d-none d-md-block">
-          <h3>Third slide label</h3>
+          <h3>Travel</h3>
         </div>
       </div>
     </div>
