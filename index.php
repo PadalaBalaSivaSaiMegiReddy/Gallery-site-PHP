@@ -87,6 +87,68 @@
   </div>
 </div>
 
+<section class="my4">
+  <div class="py-4">
+    <h2 class="text-centre">Nature</h2>
+    <div class="container-fluid">
+      <div class="row">
+    <div class="col-lg-4 col-md-4 col-12">
+       <img src="Images\nature_1.jpg" class="img-fluid pb-3">
+</div>
+<div class="col-lg-4 col-md-4 col-12">
+       <img src="Images\nature_2.jpg" class="img-fluid pb-3">
+</div>
+<div class="col-lg-4 col-md-4 col-12">
+       <img src="Images\nature_3.jpg" class="img-fluid pb-3">
+</div>
+
+  </div></div></div>
+    
+</section>
+
+
+<section class="my4">
+  <div class="py-4">
+    <h2 class="text-centre">Architecture</h2>
+    <div class="container-fluid">
+      <div class="row">
+    <div class="col-lg-4 col-md-4 col-12">
+       <img src="Images\architecture_1.jpg" class="img-fluid pb-3">
+</div>
+<div class="col-lg-4 col-md-4 col-12">
+       <img src="Images\architecture_2.jpg" class="img-fluid pb-3">
+</div>
+<div class="col-lg-4 col-md-4 col-12">
+       <img src="Images\architecture_3.jpg" class="img-fluid pb-3">
+</div>
+
+  </div></div></div>
+    
+</section>
+
+<section class="my4">
+  <div class="py-4">
+    <h2 class="text-centre">Travel</h2>
+    <div class="container-fluid">
+      <div class="row">
+    <div class="col-lg-4 col-md-4 col-12">
+       <img src="Images\travel_1.jpg" class="img-fluid pb-3">
+</div>
+<div class="col-lg-4 col-md-4 col-12">
+       <img src="Images\travel_2.jpg" class="img-fluid pb-3">
+</div>
+<div class="col-lg-4 col-md-4 col-12">
+       <img src="Images\travel_3.jpg" class="img-fluid pb-3">
+</div>
+
+  </div></div></div>
+    
+</section>
+
+
+
+
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
