@@ -1,6 +1,6 @@
 # Gallery Site
 
-This is a PHP-based website that allows users to view and upload images to an online gallery.
+This is a PHP-based website that allows users to view images in an online gallery and stores their information through a MySQL databases.
 
 ## Technologies Used
 
