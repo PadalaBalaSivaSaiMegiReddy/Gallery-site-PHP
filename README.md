@@ -1,4 +1,4 @@
-# Gallery Site
+# Gallery Site using PHP and MySQL
 
 This is a PHP-based website that allows users to view images in an online gallery and stores their information through a MySQL databases.
 
