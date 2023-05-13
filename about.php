@@ -20,6 +20,6 @@ mysqli_select_db($conn, 'gallery site php');
     $number=$_POST['number'];
     $query="insert into contact(name, email, number) values ('$name', '$email', '$number')";
     mysqli_query($conn, $query);
-    header('location:index.php#contact');
+    header('location:index.html#contact');
 
 ?>
