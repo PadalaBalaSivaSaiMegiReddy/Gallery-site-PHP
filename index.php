@@ -28,18 +28,18 @@
           Categories
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Nature</a>
+          <a class="dropdown-item" href="#nature">Nature</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Architecture</a>
+          <a class="dropdown-item" href="#architecture">Architecture</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Travel</a>
+          <a class="dropdown-item" href="#travel">Travel</a>
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Contact</a>
+        <a class="nav-link" href="#contact">Contact</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">About</a>
+        <a class="nav-link" href="#about">About</a>
       </li>
 </ul>
 
@@ -86,10 +86,10 @@
     </a>
   </div>
 </div>
-
+<a  id="nature">
 <section class="my4">
   <div class="py-4">
-    <h2 class="text-centre">Nature</h2>
+    <h2 class="text-center">Nature</h2>
     <div class="container-fluid">
       <div class="row">
     <div class="col-lg-4 col-md-4 col-12">
@@ -104,12 +104,12 @@
 
   </div></div></div>
     
-</section>
+</section></a>
 
-
+<a  id="architecture">
 <section class="my4">
   <div class="py-4">
-    <h2 class="text-centre">Architecture</h2>
+    <h2 class="text-center">Architecture</h2>
     <div class="container-fluid">
       <div class="row">
     <div class="col-lg-4 col-md-4 col-12">
@@ -124,11 +124,13 @@
 
   </div></div></div>
     
-</section>
+</section></a>
+
+<a  id="travel">
 
 <section class="my4">
   <div class="py-4">
-    <h2 class="text-centre">Travel</h2>
+    <h2 class="text-center">Travel</h2>
     <div class="container-fluid">
       <div class="row">
     <div class="col-lg-4 col-md-4 col-12">
@@ -143,7 +145,73 @@
 
   </div></div></div>
     
+</section></a>
+
+<a  id="contact">
+
+<section class="my4">
+  <div class="py-4">
+    <h2 class="text-center">Contact Us</h2>
+    <div class="w-50 m-auto">
+      <form action="about.php" method="post">
+        <div class="form-group">
+          <label>Name:</label>
+          <input type="text" name="name" autocomplete="on" class="form-control">
+        </div>
+        <div class="form-group">
+          <label>Email:</label>
+          <input type="email" name="email" autocomplete="on" class="form-control">
+        </div>
+        <div class="form-group">
+          <label>Number:</label>
+          <input type="text" name="number" autocomplete="on" class="form-control">
+        </div>
+        <button type="submit" class="btn btn-success">Submit</button>
+      </form>
+    </div>
 </section>
+
+</a>
+
+<!-- <section class="my4">
+  <div class="py-4">
+    <h2 class="text-center">About Us</h2>
+    <div class="container-fluid">
+      <h3 class="text-center">Megi</h3><br>
+      <p class="text-center"><b>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, quis a<b></p>
+
+
+</div>
+</section> -->
+
+<a  id="about">
+<section class="my-4">
+  <div class="py-4">
+    <h2 class="text-center">About Us</h2><br>
+    <div class="container-fluid">
+      <div class="row justify-content-center">
+        <div class="col-md-8">
+          <h3 class="text-center mb-4">Meet the Team</h3>
+          <div class="card mb-3">
+            <div class="row no-gutters align-items-center">
+              <div class="col-md-4">
+                <img src="Images/megi.JPG" alt="Megi" class="card-img">
+              </div>
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h5 class="card-title">Megi</h5>
+                  <p class="card-text">I am a motivated software developer studying Bachelor of Science in Computer Science. Proficient in programming languages such as JavaScript, Python, C++ and PHP.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+</a>
+
 
 
 
